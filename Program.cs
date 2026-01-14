@@ -1,4 +1,5 @@
 ﻿// Madison Diefenbach
+// section 3
 internal class Program
 {
     private static void Main(string[] args)
